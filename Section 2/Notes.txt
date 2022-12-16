@@ -1,0 +1,13 @@
+Section 2 - Big O Notations Notes
+
+Lesson 4
+    - What is Big O Notation? Big O gives you a way to measure which algorithm is the "best" when there are multiple ways to complete a task.
+    - How do we know what the best algorithm is? Big O measures that.
+    - Big O is a system to for letting us know the best way to do a task such as taking a string and reversing it. There are many ways to do that but which is the "best" way?
+    - Why it matters? Imagine huge amounts of data you need to sort through and it could save you a few hours of runtime if you implement the best algorithm rather than just finding the one that runs. SPEED MATTERS.
+    - There are trade-offs, sometimes there isn't a clear cut best approach so you need to have a pros cons of which algorithm works the best.
+    - Big O lets you recognize different pain points in your code, if something is running slow it helps you figure out why it might be doing that and what a better solution would be
+    - Less important but it also comes up in interviews to see if you understand it
+
+Lesson 5
+    
