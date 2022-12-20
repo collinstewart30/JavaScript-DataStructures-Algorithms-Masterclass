@@ -10,4 +10,18 @@ Lesson 4
     - Less important but it also comes up in interviews to see if you understand it
 
 Lesson 5
-    
+    -Example code in Lesson 5 folder
+        -writing a function that adds up all the numbers from 1 to n (n is input into the function)
+            -big-o-test.js
+                -Two function in that file but which is better?
+                -Uses a timer to see which is faster
+    -Shorter functions does not always mean that it is better - a longer function can sometimes be a faster way to do something, it depends on the situation
+    - What does "better" mean when it comes to code?
+        -Faster? Less memory? Easier to read? Code length?
+        -A lot of the time, faster is usually the best - more effecient the better!
+    - Why not use a timer to see which function is faster?
+        -Sometimes using a timer is inaccurate because the time can change. Run the file in the folder (big-o-test.js) and you will see that each time you run it you get a different amount of time
+        - Different machines can record different times - faster machines vs slow old machines doesnt make the solution better just the machines
+        - For very fast algorithms speed won't be precise enough and will have to read too far into small intervals of time
+    -Timing code isn't necessarily bad, just not always 100% accurate 
+    - You don't always want to have to write a timing function for every piece of code you write 
